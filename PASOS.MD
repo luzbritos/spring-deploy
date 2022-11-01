@@ -9,4 +9,7 @@ java.runtime.version=19 (version actual)
 4. Desde Heroku crear app y elegir metdo github y buscar el repositorio subido
 5. Habilitar deploy automatico y ejecutar el Deploy
 
-
+## Proveedores Cloud
+* Heroku: java, Spring, PostgreSQL
+* Netlify: Frontend (React, Angular, ...)
+* Vercel: Frontend (React, Angular, ...)
